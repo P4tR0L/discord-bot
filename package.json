@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/P4tR0L/discord-bot/issues"
   },
-  "homepage": "https://github.com/P4tR0L/discord-bot#readme"
+  "homepage": "https://github.com/P4tR0L/discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
